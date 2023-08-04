@@ -13,8 +13,6 @@ import { framerMotionConfig } from "./config";
 
 
 
-
-
 function App() {
   const [section, setSection] = useState(0);
   const [started, setStarted] = useState(false);
