@@ -1,0 +1,85 @@
+.api-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #8c6ccc;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    color: #fff;
+  }
+  
+  .api-container h2 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+  }
+  
+  .api-container p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    color: #fff;
+  }
+  
+  .api-container ul {
+    margin-top: 20px;
+    padding: 0;
+  }
+  
+  .api-container li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .api-container a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    transition: color 0.3s ease;
+  }
+  
+  .api-container a:hover {
+    color: #fca311;
+  }
+  
+  .social-media-list {
+    display: flex;
+    list-style-type: none;
+    margin-left: 100px;
+  }
+  
+  .social-media-list li {
+    margin-right: 10px;
+  }
+  
+  .api-container .left-image,
+  .api-container .right-image {
+    width: 170px;
+    height: 250px;
+    margin-bottom: 10px;
+
+  }
+  
+  .api-container .left-image {
+    float: left;
+    margin-right: 10px;
+  }
+  
+
+  
+  .api-container .right-image {
+    float: right;
+    margin-bottom: 10px;
+  }
+  
+  .social-media-icon {
+    width: 60px;
+    height: 60px;
+    margin-left: 50px;
+  }
+  
+  
